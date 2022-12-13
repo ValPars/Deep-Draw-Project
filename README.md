@@ -3,7 +3,7 @@
 <br>
 
 **Deep Draw** is a project from [Le wagon data science school](https://www.lewagon.com/data-science-course) in Paris, batch #1002 (Sept.-Dec. 2022). The objective is to develop, train and apply **neural networks models** on the [QuickDraw dataset](https://console.cloud.google.com/storage/browser/quickdraw_dataset/) published by [Google Creative Lab](https://github.com/googlecreativelab/quickdraw-dataset). 100 categories of sketches have been selected and were used to train a CNN-based model and a RNN-based model in order to categorize drawings.
-
+Here you can find the final app : [https://le-wagon-deepdraw.streamlit.app/](https://le-wagon-deepdraw.streamlit.app/)
 <br>
 
 ## Acknowledgments
