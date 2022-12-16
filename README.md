@@ -248,5 +248,5 @@ Here is the final confusion matrix and the final classification report.
 
 ![sample of classification report of RNN](images/sample_classif-report_rnn.png)
 
-# 3️⃣ The streamlite interface
+#4️⃣ The streamlite interface
 [https://le-wagon-deepdraw.streamlit.app/](https://le-wagon-deepdraw.streamlit.app/)
